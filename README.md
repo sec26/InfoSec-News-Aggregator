@@ -7,6 +7,6 @@ https://feedly.com/i/entry/44PDHbeUlYYTQXtEviuFJopZm5BafVaeCwrZNtUulWo=_17f09c91
 
 Import SecuritySources.opml into feedly.com, or your favorite RSS reader. 
 
-It contains RSS feeds for ~100 blog and news sites, grouped into about 20 "must read," a handful of product security advisories, a handful of exploit sources, and a long list of everything else.
+It contains RSS feeds for ~100 blog and news sites, grouped into different categories.
 
 NOTE : Standard Plan allows only max of 100 feeds 
