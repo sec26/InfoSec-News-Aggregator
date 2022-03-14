@@ -1,4 +1,4 @@
-# Infosec-News Aggregator for security and threat news list 
+# Infosec-resource Aggregator for security and threat news list 
 Create an account in feedly.com
 
 Import the OPML file to import the sites/blogs of your interest to follow 
